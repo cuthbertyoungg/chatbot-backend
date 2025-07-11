@@ -1,5 +1,3 @@
-Of course. Here is the complete API documentation for everything we have built. You can copy and paste this directly into your README.md file.
-
 Chatbot LMS - Backend API Documentation
 This document provides instructions on how to use the backend API for the Learning Management System.
 
